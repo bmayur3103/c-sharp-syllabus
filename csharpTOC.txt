@@ -6,7 +6,9 @@ Arrays
 oops concepts
 Test 1
 FILE IO
+XML
 Reflection
 attributes
 Test 2
 Interview Prep
+LINQ
