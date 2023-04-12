@@ -1,0 +1,5 @@
+C# syllabus
+--------------------
+Language Basics
+Loops
+Arrays
