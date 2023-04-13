@@ -1,5 +1,7 @@
 C# syllabus
 --------------------
+****early bird 10% discount available...
+
 Language Basics
 Loops
 Arrays
@@ -12,3 +14,5 @@ attributes
 Test 2
 Interview Prep
 LINQ
+
+
